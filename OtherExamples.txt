@@ -1,0 +1,3 @@
+https://callistaenterprise.se/blogg/teknik/2019/10/05/go-worker-cancellation/
+
+https://golang.org/doc/effective_go.html#concurrency
